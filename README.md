@@ -22,7 +22,7 @@
   <h2>Beauty Picks</h2>
   <div id="beauty-products">
     <p>🌸 Gleva - 5 products in 1 stack</p>
-    <a class="button" href="https://amzn.to/your-lipbalm-link" target="_blank">Buy on Amazon</a>
+    <a class="button" href="https://amzn.to/3GEATBk" target="_blank">Buy on Amazon</a>
   </div>
   <button class="show-more" onclick="addBeauty()">Show More</button>
 </section>
