@@ -40,7 +40,8 @@
   <h2>Kitchen Essentials</h2>
   <div id="kitchen-products">
     <p>🍳 Non-stick Pan – Easy cooking, easy cleaning</p>
-    <a class="button" href="https://amzn.to/your-pan-link" target="_blank">Buy Now</a>
+    <p>🍳 smooth cast iron tawa for dosa, chapathi</p>
+    <a class="button" href="https://amzn.to/457hoKQ" target="_blank">Buy Now</a>
   </div>
   <button class="show-more" onclick="addKitchen()">Show More</button>
 </section>
