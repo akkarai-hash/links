@@ -13,6 +13,9 @@
   <a href="#beauty">Beauty</a>
   <a href="#health">Health</a>
   <a href="#kitchen">Kitchen</a>
+  <a href="#books">Books</a>
+  <a href="#women dresses">women dresses</a>
+  <a href="#girlyy things:)">girlyy things:)</a>
 </nav>
 
 <section id="beauty">
