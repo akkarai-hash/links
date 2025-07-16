@@ -34,7 +34,7 @@
 <body>
 
 <header>
-  <h1>Welcome to My Multi-Niche Affiliate Site</h1>
+  <h1>Welcome to My Multi-Niche Site</h1>
 </header>
 
 <nav>
