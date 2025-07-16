@@ -42,31 +42,6 @@
   <button class="show-more" onclick="addKitchen()">Show More</button>
 </section>
 
-<script>
-  function addBeauty() {
-    const newProduct = `
-      <p>💄 Waterproof Kajal – Smudge-proof all day</p>
-      <a class="button" href="https://amzn.to/kajal-link" target="_blank">Buy Kajal</a>
-    `;
-    document.getElementById("beauty-products").innerHTML += newProduct;
-  }
-
-  function addHealth() {
-    const newProduct = `
-      <p>🥤 Protein Powder – Energy and strength daily</p>
-      <a class="button" href="https://amzn.to/protein-link" target="_blank">Buy Protein</a>
-    `;
-    document.getElementById("health-products").innerHTML += newProduct;
-  }
-
-  function addKitchen() {
-    const newProduct = `
-      <p>☕ Electric Kettle – Fast boiling in minutes</p>
-      <a class="button" href="https://amzn.to/kettle-link" target="_blank">Buy Kettle</a>
-    `;
-    document.getElementById("kitchen-products").innerHTML += newProduct;
-  }
-</script>
 
 </body>
 </html>
